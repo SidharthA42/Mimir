@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MIMIR: Medical Guideline RAG System 
 
 MIMIR is a specialized Retrieval-Augmented Generation (RAG) system engineered to transform complex medical guideline PDFs into navigable, queryable intelligence. By combining high-fidelity markdown conversion with spatial coordinate-based flowchart extraction, MIMIR allows clinicians to interact with both prose text and clinical decision trees.
@@ -85,3 +86,6 @@ The following features are currently in the backlog for future development:
 
 ---
 *Disclaimer: MIMIR is an AI-assisted tool. All medical decisions should be verified against official clinical guidelines.*
+=======
+# Mimir
+>>>>>>> ef62b282b6d868eb96febe04d6cf7e755c3b40d1
