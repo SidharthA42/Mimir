@@ -87,5 +87,3 @@ The following features are currently in the backlog for future development:
 ---
 *Disclaimer: MIMIR is an AI-assisted tool. All medical decisions should be verified against official clinical guidelines.*
 =======
-# Mimir
->>>>>>> ef62b282b6d868eb96febe04d6cf7e755c3b40d1
